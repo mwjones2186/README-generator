@@ -1,9 +1,9 @@
-# Super Duper App 
-  ![mozilla](https://img.shields.io/badge/License-mozilla-red.svg)
+# This is a README Generator 
+  ![GNU](https://img.shields.io/badge/License-GNU-red.svg)
   
   ## Description 
 
-  Super Duper is an applipl.
+  This is a commandline interface that allows a user to build a strong README.md file. My motivation was a streamlined process that allows me to NOT forget valuable information. This will ensure I cover important details I need in my readme..
 
   ## Table of Contents
 
@@ -13,22 +13,22 @@
   * [Contribution](#contribution)
 
   ## Installation
-  First you will clone this repo and create a file to code this in your code program. After you are working in your file, you will need to make sure that you have NODE.JS and able to use node in your terminal. After this, you can run 'node index' and your terminal will start asking questions to add to your readme.md file..
+  Clone my repo. install NODE.js. Make sure you are in the correct file location. Run an integraded terminal for the index.js file. .
 
   ## Usage
 
-  Its a great way to create a professional README.md file and make sure you cover all necessary questions to add meat to your readme file..
+  This is a great, quick way to generate strong README.md files. The questions drop in the proper location of the readme file and add license badges if necessary..
 
   ## Contribution
 
-  It would be great to write some code to allow adding pictures, screenshots or videos of the code functioning. .
+  It would be great to get a shoutout on bottom of readme file or help with coding out other functionalities ie. add pics or SS.
 
   ## Tests
 
-  i used no tests.
+  none.
 
   ## Questions
 
-  Isnt this sweet?!.
+  None..
 
   
